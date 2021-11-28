@@ -4,7 +4,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>peopleNtech</groupId>
+  <groupId>Peopelntech</groupId>
   <artifactId>Automationtraining</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
@@ -33,14 +33,11 @@
     <version>3.141.59</version>
 </dependency>
     
-   
     
     
     
     
   </dependencies>
-  
-  
 
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
