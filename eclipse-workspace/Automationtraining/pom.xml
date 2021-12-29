@@ -11,6 +11,25 @@
     <artifactId>selenium-java</artifactId>
     <version>3.141.59</version>
 </dependency>
+<!-- https://mvnrepository.com/artifact/io.freefair.gradle/github-plugin -->
+<dependency>
+    <groupId>io.freefair.gradle</groupId>
+    <artifactId>github-plugin</artifactId>
+    <version>6.3.0</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/org.kohsuke/github-api -->
+<dependency>
+    <groupId>org.kohsuke</groupId>
+    <artifactId>github-api</artifactId>
+    <version>1.300</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.jenkins-ci.main/maven-plugin -->
+
+
+
+
+
 <!-- https://mvnrepository.com/artifact/org.testng/testng -->
 <dependency>
     <groupId>org.testng</groupId>
