@@ -4,7 +4,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>Peopelntech</groupId>
+  <groupId>com.piit</groupId>
   <artifactId>Automationtraining</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
@@ -25,33 +25,12 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
-    
-    <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
     <version>3.141.59</version>
 </dependency>
-<<<<<<< HEAD
-<!-- https://mvnrepository.com/artifact/io.freefair.gradle/github-plugin -->
-<dependency>
-    <groupId>io.freefair.gradle</groupId>
-    <artifactId>github-plugin</artifactId>
-    <version>6.3.0</version>
-</dependency>
-
-<!-- https://mvnrepository.com/artifact/org.kohsuke/github-api -->
-<dependency>
-    <groupId>org.kohsuke</groupId>
-    <artifactId>github-api</artifactId>
-    <version>1.300</version>
-</dependency>
-<!-- https://mvnrepository.com/artifact/org.jenkins-ci.main/maven-plugin -->
-
-
-
-
-
 <!-- https://mvnrepository.com/artifact/org.testng/testng -->
 <dependency>
     <groupId>org.testng</groupId>
@@ -60,13 +39,6 @@
     <scope>test</scope>
 </dependency>
 
-=======
-    
-    
-    
-    
-    
->>>>>>> 710d8ec 12/28/2021
   </dependencies>
 
   <build>
