@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Adhoc">
+<listeners>
+<listener class-name="PageObjectModel.Listners"></listener>
+</listeners>	
+
+	<test name="Regressionofchrome">
+		<parameter name="browser" value="chrome"></parameter>
+		<parameter name="wbsite" value="https://admin-demo.nopcommerce.com/"></parameter>
+		<classes>
+			<class name="PageObjectModel.Properties_parameterized"></class>
+			<class name="PageObjectModel.Test_FaceBook"></class>
+			<!--<class name="PageObjectModel.Test_AmazonSignin"></class>-->
+		</classes>
+	</test>
+<test name="Regressionofedge">
+
+<parameter name="browser" value="edge"></parameter>
+<parameter name="wbsite" value="https://www.amazon.com"></parameter>
+		<classes>
+			<class name="PageObjectModel.Test_AmazonSignin2"></class>
+		</classes>
+	</test>
+
+</suite>

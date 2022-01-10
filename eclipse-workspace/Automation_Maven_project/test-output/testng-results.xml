@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-09T20:31:01 CST" name="Adhoc" finished-at="2022-01-09T20:34:04 CST" duration-ms="182636">
+    <groups>
+    </groups>
+    <test started-at="2022-01-09T20:31:01 CST" name="Regressionofchrome" finished-at="2022-01-09T20:33:10 CST" duration-ms="128241">
+      <class name="PageObjectModel.Test_FaceBook">
+        <test-method is-config="true" signature="Browsers(java.lang.String,java.lang.String)[pri:0, instance:PageObjectModel.Test_FaceBook@3a6bb9bf]" started-at="2022-01-09T20:31:01 CST" name="Browsers" finished-at="2022-01-09T20:31:09 CST" duration-ms="7249" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://facebook.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browsers -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:PageObjectModel.Test_FaceBook@3a6bb9bf]" started-at="2022-01-09T20:31:09 CST" name="f" data-provider="dp" finished-at="2022-01-09T20:31:15 CST" duration-ms="6286" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yohanes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:PageObjectModel.Test_FaceBook@3a6bb9bf]" started-at="2022-01-09T20:31:26 CST" name="afterMethod" finished-at="2022-01-09T20:31:32 CST" duration-ms="6137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="Browsers(java.lang.String,java.lang.String)[pri:0, instance:PageObjectModel.Test_FaceBook@3a6bb9bf]" started-at="2022-01-09T20:31:32 CST" name="Browsers" finished-at="2022-01-09T20:31:39 CST" duration-ms="6540" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://facebook.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browsers -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:PageObjectModel.Test_FaceBook@3a6bb9bf]" started-at="2022-01-09T20:31:39 CST" name="f" data-provider="dp" finished-at="2022-01-09T20:31:45 CST" duration-ms="6259" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bethy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:PageObjectModel.Test_FaceBook@3a6bb9bf]" started-at="2022-01-09T20:32:01 CST" name="afterMethod" finished-at="2022-01-09T20:32:07 CST" duration-ms="6178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="Browsers(java.lang.String,java.lang.String)[pri:0, instance:PageObjectModel.Test_FaceBook@3a6bb9bf]" started-at="2022-01-09T20:32:07 CST" name="Browsers" finished-at="2022-01-09T20:32:13 CST" duration-ms="6663" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://facebook.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browsers -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:PageObjectModel.Test_FaceBook@3a6bb9bf]" started-at="2022-01-09T20:32:13 CST" name="f" data-provider="dp" finished-at="2022-01-09T20:32:20 CST" duration-ms="6281" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[merry]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:PageObjectModel.Test_FaceBook@3a6bb9bf]" started-at="2022-01-09T20:32:48 CST" name="afterMethod" finished-at="2022-01-09T20:32:50 CST" duration-ms="2069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="Browsers(java.lang.String,java.lang.String)[pri:0, instance:PageObjectModel.Test_FaceBook@3a6bb9bf]" started-at="2022-01-09T20:32:50 CST" name="Browsers" finished-at="2022-01-09T20:32:57 CST" duration-ms="6627" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://facebook.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browsers -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:PageObjectModel.Test_FaceBook@3a6bb9bf]" started-at="2022-01-09T20:32:57 CST" name="f" data-provider="dp" finished-at="2022-01-09T20:33:03 CST" duration-ms="6268" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Gabriel]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:PageObjectModel.Test_FaceBook@3a6bb9bf]" started-at="2022-01-09T20:33:03 CST" name="afterMethod" finished-at="2022-01-09T20:33:10 CST" duration-ms="6150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- PageObjectModel.Test_FaceBook -->
+    </test> <!-- Regressionofchrome -->
+    <test started-at="2022-01-09T20:33:10 CST" name="Regressionofedge" finished-at="2022-01-09T20:34:04 CST" duration-ms="54349">
+      <class name="PageObjectModel.Test_AmazonSignin2">
+        <test-method is-config="true" signature="Browsers(java.lang.String,java.lang.String)[pri:0, instance:PageObjectModel.Test_AmazonSignin2@16610890]" started-at="2022-01-09T20:33:10 CST" name="Browsers" finished-at="2022-01-09T20:33:23 CST" duration-ms="12892" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.amazon.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browsers -->
+        <test-method signature="Testing_signin()[pri:1, instance:PageObjectModel.Test_AmazonSignin2@16610890]" started-at="2022-01-09T20:33:23 CST" name="Testing_signin" finished-at="2022-01-09T20:33:33 CST" duration-ms="9976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testing_signin -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:PageObjectModel.Test_AmazonSignin2@16610890]" started-at="2022-01-09T20:33:33 CST" name="afterMethod" finished-at="2022-01-09T20:33:39 CST" duration-ms="6125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="Browsers(java.lang.String,java.lang.String)[pri:0, instance:PageObjectModel.Test_AmazonSignin2@16610890]" started-at="2022-01-09T20:33:39 CST" name="Browsers" finished-at="2022-01-09T20:33:50 CST" duration-ms="11709" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.amazon.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browsers -->
+        <test-method signature="f()[pri:2, instance:PageObjectModel.Test_AmazonSignin2@16610890]" started-at="2022-01-09T20:33:50 CST" name="f" finished-at="2022-01-09T20:33:58 CST" depends-on-methods="PageObjectModel.Test_AmazonSignin2.Testing_signin" duration-ms="7241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:PageObjectModel.Test_AmazonSignin2@16610890]" started-at="2022-01-09T20:33:58 CST" name="afterMethod" finished-at="2022-01-09T20:34:04 CST" duration-ms="6162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- PageObjectModel.Test_AmazonSignin2 -->
+    </test> <!-- Regressionofedge -->
+  </suite> <!-- Adhoc -->
+</testng-results>
