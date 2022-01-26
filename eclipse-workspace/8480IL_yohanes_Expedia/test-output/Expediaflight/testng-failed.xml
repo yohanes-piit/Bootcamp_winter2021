@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Expediaflight]" guice-stage="DEVELOPMENT">
+  <parameter name="website" value="https://www.Expedia.com"/>
+  <parameter name="browser" value="chrome"/>
+  <test thread-count="5" name="flightbooking(failed)">
+    <classes>
+      <class name="Expedia.Test_Expediaflight">
+        <methods>
+          <include name="Browsers"/>
+          <include name="f"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- Expedia.Test_Expediaflight -->
+    </classes>
+  </test> <!-- flightbooking(failed) -->
+</suite> <!-- Failed suite [Expediaflight] -->
